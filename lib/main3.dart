@@ -28,6 +28,7 @@ class MyApp extends StatelessWidget {
                     Text('금호동 3가'),
                     Text('7000원'),
                     Text('안녕하세요'),
+                    Text('박동수'),
                     Row(
                       mainAxisAlignment: MainAxisAlignment.end,
                       children: [
